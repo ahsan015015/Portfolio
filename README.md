@@ -9,7 +9,7 @@ The site is inspired by clean, minimal game developer portfolios and is built wi
 After enabling GitHub Pages, your website URL will be:
 
 ```text
-https://YOUR-USERNAME.github.io/REPOSITORY-NAME/
+https://YOUR-USERNAME.github.io/REPOSITORY-NAME/](https://ahsan015015.github.io/Portfolio/)
 ```
 
 ## Features
