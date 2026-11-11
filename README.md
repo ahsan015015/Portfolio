@@ -1,4 +1,4 @@
-# Ahsan Ali — Unity Game Developer Portfolio
+# Ahsan Ali · Unity Game Developer Portfolio
 
 A modern, responsive portfolio website for **Ahsan Ali**, a Unity Game Developer from Dhaka, Bangladesh.
 
@@ -39,6 +39,7 @@ https://ahsan015015.github.io/Portfolio/
 ├── word-cross-game.png
 ├── bullet-rush.png
 ├── double-dash.jpg
+├── omg-this-place-is-disgusting.jpg
 └── README.md
 ```
 
